@@ -1,8 +1,25 @@
-4. verificar estado,cambios , archivos nuevos al area de preparacion (stating area)
-git add . / git add all / git add index.html
+Ver versión de git instalada
+git --version / git -v
 
-5. creamos una version del proyecto 
-git commit - m "menssaje descriptivo"
 
-6. verificar el log de versiones existentes
+Configurar usuario: git config --global user.name "Tu Nombre"
+
+Configurar email: git config --global user.email "tu@email.com"
+
+git config --list
+
+
+1. Iniciar git en el proyecto
+git init
+
+3. Verificar estado del proyecto
+git status
+
+4. Agregar los cambios, archivos nuevos, etc. al área de prepacipon (staging area):
+git add . / git add --all / git add index.html
+
+5. Creamos una versión del proyecto
+git commit -m "Mensaje descriptivo de los cambios generados"
+
+6. Verificar el log de versiones existentes
 git log / git log --oneline
