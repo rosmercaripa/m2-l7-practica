@@ -1,4 +1,5 @@
 Título del proyecto
 1. Primer hito terminado
 2. segundo hito terminado
-3. tercer hito termonado
+3. tercer hito terminado
+4. cuarto hito terminado
