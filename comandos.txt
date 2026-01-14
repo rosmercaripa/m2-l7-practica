@@ -1,0 +1,8 @@
+4. verificar estado,cambios , archivos nuevos al area de preparacion (stating area)
+git add . / git add all / git add index.html
+
+5. creamos una version del proyecto 
+git commit - m "menssaje descriptivo"
+
+6. verificar el log de versiones existentes
+git log / git log --oneline
